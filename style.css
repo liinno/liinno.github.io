@@ -1,0 +1,79 @@
+body {
+	margin: 0;
+	background: #fff;
+	text-align: center; /* Necessary for IE 6,7,8 */
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 16px;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+#header {
+	height: 0;
+}
+
+#main {
+	background-color: #eff;
+	font-size: 0;
+}
+
+#footer {
+	height:80px;
+	position: relative;
+}
+
+#footer p {
+	position:absolute;
+	margin:auto;
+	bottom: 5px;
+	left: 0;
+	right: 0;
+	color: #666;
+}
+
+.panel {
+	width: 320px;
+	height: 260px;
+	margin:0;
+	padding:0;
+	display: inline-block;
+	*display:inline; /* IE6、7 */
+	*zoom:1; /* IE6、7 */
+	vertical-align: middle;
+}
+
+#panel-1, #panel-6 {
+	background-color: #eff;
+}
+
+#panel-2 {
+	background-color: #fafafa;
+}
+
+#panel-3 {
+	background-color: #dfffff;
+}
+
+#panel-4 {
+	background-color: #dff8ff;
+}
+
+#panel-5 {
+	background-color: #f8f8f8;
+}
+
+.panel span { 
+	display: inline-block;
+	width: 1px;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.panel img {
+	max-width: 319px;
+	max-height: 100%;
+	vertical-align: middle;
+}
