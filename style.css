@@ -3,7 +3,7 @@ body {
 	text-align: center; /* layout center */
 	background: #eff;
 	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .container {
@@ -97,7 +97,7 @@ body {
 
 .panel div p {
 	color: #005f9f;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 150%;
 	visibility: hidden; /* visible on hover */
 }
@@ -121,5 +121,5 @@ body {
 	left: 0;
 	right: 0;
 	bottom: 5px;
-	color: #666;
+	color: #999;
 }
