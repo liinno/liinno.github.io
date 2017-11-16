@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	max-width: 945px;
+	max-width: 930px;
 	margin: 0 auto; /* layout center */
 }
 
@@ -16,8 +16,8 @@ body {
 }
 
 .panel {
-	width: 315px;
-	height: 260px;
+	width: 310px;
+	height: 250px;
 	border: 1px solid #bfe5ff;
 	background-color: #dff2ff;
 	box-sizing: border-box;
