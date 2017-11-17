@@ -35,6 +35,10 @@ body {
 	vertical-align: middle;
 }
 
+#showcase #logo, #showcase #more {
+	background-image: url("./images/back.png");
+}
+
 .panel img {
 	max-width: 90%;
 	max-height: 90%;
