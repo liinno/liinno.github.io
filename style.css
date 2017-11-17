@@ -42,11 +42,6 @@ body {
 	vertical-align: middle;
 }
 
-#logo img, #more img {
-	max-width: 100%;
-	max-height: 100%;
-}
-
 .panel:hover img {
 	max-height: 75%;
 	vertical-align: bottom;
